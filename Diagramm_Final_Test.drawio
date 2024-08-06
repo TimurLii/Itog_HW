@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Страница — 1" id="j9u786YBtZBQ5b-9HIVq">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8TmXEapalGIt_btsEx86-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-1" target="8TmXEapalGIt_btsEx86-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="185" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-1" target="8TmXEapalGIt_btsEx86-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="474" y="100" />
+              <mxPoint x="660" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-1" value="Animal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-4" target="8TmXEapalGIt_btsEx86-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-4" target="8TmXEapalGIt_btsEx86-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-4" target="8TmXEapalGIt_btsEx86-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-4" value="Pets&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-5" value="Pack_Animal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-6" value="Humster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-9" value="Dog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-10" value="Cat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-17" value="Horse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-18" value="Camel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-19" value="Donkey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.644;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-5" target="8TmXEapalGIt_btsEx86-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TmXEapalGIt_btsEx86-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8TmXEapalGIt_btsEx86-5" target="8TmXEapalGIt_btsEx86-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
