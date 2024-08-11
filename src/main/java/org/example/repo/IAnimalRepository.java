@@ -2,9 +2,12 @@ package org.example.repo;
 
 import org.example.model.Animal;
 
+import java.util.List;
+
 public interface IAnimalRepository {
     void addNewRecording(Animal animal);
+    List<String> showAllAnimalInFile();
     void readCommandByAnimal();
-    void addNewCommandByAnimal();
-
+    void addNewCommandForAnimal();
+    String searchCommandByName(String name);
 }

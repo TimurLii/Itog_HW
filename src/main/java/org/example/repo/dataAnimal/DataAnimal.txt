@@ -1,0 +1,19 @@
+Animal{name='Cat1', command=[Meow, run], birthDay='12.12.1212'}
+Animal{name='Cat2', command=[Meow], birthDay='12.12.1212'}
+Animal{name='Cat3', command=[Meow, run], birthDay='12.12.1212'}
+Animal{name='Dog1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Dog2', command=[Run], birthDay='12.12.1212'}
+Animal{name='Dog3', command=[Run], birthDay='12.12.1212'}
+Animal{name='Hamster1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Hamster2', command=[Run], birthDay='12.12.1212'}
+Animal{name='Hamster3', command=[Run], birthDay='12.12.1212'}
+Animal{name='Horse1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Horse2', command=[Run], birthDay='12.12.1212'}
+Animal{name='Horse3', command=[Run], birthDay='12.12.1212'}
+Animal{name='Donkey1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Donkey2', command=[Run], birthDay='12.12.1212'}
+Animal{name='Donkey3', command=[Run], birthDay='12.12.1212'}
+Animal{name='Camel1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Camel1', command=[Run], birthDay='12.12.1212'}
+Animal{name='Camel1', command=[Run], birthDay='12.12.1212'}
+
