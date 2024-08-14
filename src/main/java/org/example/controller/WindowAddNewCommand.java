@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Arrays;
 import java.util.List;
 
 public class WindowAddNewCommand {
@@ -45,7 +46,7 @@ public class WindowAddNewCommand {
         btnSendNewCommand.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String[] newCommandList = newCommandText.getText().split(",");
+                String newCommandList = newCommandText.getText();
                 if(mainMenu.iAnimalRepository.addNewCommandForAnimal(nameAnimalText.getText(), newCommandList)){
                     mainMenu.messageFromUser.setText("Command add");
                     setWorkAAddNewCommand(false);

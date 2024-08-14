@@ -1,0 +1,1 @@
+Animal{name='horse1', command=[com1, com2], birthDay='12.12.1212'}

@@ -61,12 +61,12 @@ public class AnimalRepository implements IAnimalRepository {
     }
 
     @Override
-    public boolean addNewCommandForAnimal(String name, String[] newCommandList) {
+    public boolean addNewCommandForAnimal(String name, String newCommandList) {
       List<String> tempListCommand = new ArrayList<>();
         for (Animal el : animalList) {
             if (el.getName().equals(name)) {
                 tempListCommand.addAll(List.of(el.getCommand()));
-                Collections.addAll(tempListCommand, el.getCommand());
+                Collections.addAll(tempListCommand, newCommandList);
                 String[] res = tempListCommand.toArray(new String[0]);
                 el.setCommand(res);
                 addNewRecordingAfterChanges();

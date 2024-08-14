@@ -8,6 +8,6 @@ public interface IAnimalRepository {
     void addNewRecording(Animal animal);
     List<String> showAllAnimalInFile();
     void addNewRecordingAfterChanges();
-    boolean addNewCommandForAnimal(String name, String[] newCommandList);
+    boolean addNewCommandForAnimal(String name, String newCommandList);
     String searchCommandByName(String name);
 }
