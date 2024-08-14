@@ -7,7 +7,7 @@ import java.util.List;
 public interface IAnimalRepository {
     void addNewRecording(Animal animal);
     List<String> showAllAnimalInFile();
-    void readCommandByAnimal();
-    void addNewCommandForAnimal();
+    void addNewRecordingAfterChanges();
+    boolean addNewCommandForAnimal(String name, String[] newCommandList);
     String searchCommandByName(String name);
 }

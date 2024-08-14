@@ -8,7 +8,7 @@ public class Animal {
     String[] command;
     String birthDay;
 
-    public Animal(String name, String[] command, String birthDay) {
+    public Animal(String name,String[] command, String birthDay) {
         this.name = name;
         this.command = command;
         this.birthDay = birthDay;
